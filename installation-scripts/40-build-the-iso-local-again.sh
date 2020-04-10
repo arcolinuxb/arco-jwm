@@ -21,8 +21,8 @@ outFolder="$HOME/ArcoLinuxB-Out"
 #Let us change the name"
 #First letter of desktop small
 
-desktop="i3"
-xdesktop="i3"
+desktop="jwm"
+xdesktop="jwm"
 
 #build.sh
 oldname1="iso_name=arcolinux"

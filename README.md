@@ -1,4 +1,4 @@
-# ArcoLinux BYOI i3 desktop
+# ArcoLinux BYOI jwm desktop
 
 # Get your code to build your own iso
 
