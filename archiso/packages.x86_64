@@ -790,6 +790,7 @@ xfce4-taskmanager
 
 jwm
 xdgmenumaker
-betterlockscreen
 sxhkd
 autorandr
+#for lxrandr
+gtk-engine-murrine
