@@ -2,7 +2,7 @@
 
 # Get your code to build your own iso
 
-	git clone https://github.com/arcolinuxb/arco-i3
+	git clone https://github.com/arcolinuxb/arco-jwm
 
 # Follow installation tutorials on
 
