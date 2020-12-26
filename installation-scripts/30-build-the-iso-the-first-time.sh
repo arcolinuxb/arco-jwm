@@ -29,7 +29,7 @@ echo
 	desktop="jwm"
 	lightdmDesktop="jwm"
 
-	arcolinuxVersion='v21.01.5'
+	arcolinuxVersion='v21.01.6'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
