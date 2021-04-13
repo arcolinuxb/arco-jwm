@@ -625,7 +625,7 @@ arcolinux-config-jwm-git
 #                           ARCOLINUX DCONF FOLDER
 ###########################################################################
 
-#arcolinux-dconf-all-desktops-git
+arcolinux-dconf-all-desktops-git
 #arcolinux-awesome-dconf-git
 #arcolinux-bspwm-dconf-git
 #arcolinux-budgie-dconf-git
@@ -640,7 +640,7 @@ arcolinux-config-jwm-git
 #arcolinux-herbstluftwm-dconf-git
 #arcolinux-i3wm-dconf-git
 #arcolinux-icewm-dconf-git
-arcolinux-jwm-dconf-git
+#arcolinux-jwm-dconf-git
 #arcolinux-kodi-dconf-git
 #arcolinux-lxqt-dconf-git
 #arcolinux-mate-dconf-git
