@@ -29,7 +29,7 @@ echo
 	desktop="jwm"
 	dmDesktop="jwm"
 
-	arcolinuxVersion='v23.02.01'
+	arcolinuxVersion='v23.02.02'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
