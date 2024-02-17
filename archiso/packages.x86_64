@@ -938,3 +938,6 @@ sxhkd
 autorandr
 #for lxrandr
 gtk-engine-murrine
+
+## chaotics-aur
+#flat-remix
